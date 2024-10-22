@@ -30,11 +30,16 @@ For specific version requirements, please refer to [requirements.txt](./requirem
 
 ## Citing
 
-If you use this dataset in scientific context, please cite it as:
+If this work is helpful to you, please cite our paper as follows:
 ```
-@article{TEMP,
-   title = {Dual-Modal Illumination System for Defect Detection of Aircraft Glass Canopy},
-   author = {Zijian Li and Yong Yao and Runyuan Wen and Qiyang Liu},
+@article{Li2024dual,
+   author = {Li, Zijian and Yao, Yong and Wen, Runyuan and Liu, Qiyang},
+   title = {Dual-Modal Illumination System for Defect Detection of Aircraft Glass Canopies},
+   journal = {Sensors},
+   volume = {24},
+   year = {2024},
+   issn = {14248220},
+   doi = {10.3390/s24206717}
 }
 ```
 
